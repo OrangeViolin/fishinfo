@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fishinfo"
+  short_description: "01fish 高密度会议理解与信息图"
+  default_prompt: "Use $fishinfo to reconstruct this meeting transcript into a complete, evidence-based meeting map and a 01fish-style infographic."
